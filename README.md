@@ -2,6 +2,11 @@
  
 A personal portfolio website built with plain HTML, CSS, and JavaScript, showcasing my interests in music, photography, calligraphy, and more — alongside a way for visitors to reach out or leave feedback.
  
+## ⬇️ Downloading This Project
+ 
+1. Download or clone this repository to your computer.
+2. Make sure the video file used on the Music Video page is named exactly `CatVideo.mp4` and placed in the same folder as `video.html` — if it downloaded as `CatVideo.zip`, extract it first, then locate and rename the actual video file inside.
+3. Open `home.html` directly in a browser, or serve the folder with a local development server (e.g. `python3 -m http.server` or VS Code's Live Server extension) for the best experience.
 ## 🌐 Live Pages
  
 | Page | File | Description |
@@ -77,3 +82,4 @@ Find me via the links on the [Contact page](./contact.html) — LinkedIn, GitHub
 ## 📄 License
  
 Personal project — created as part of university of Greenwich coursework (COMP1752) and for personal portfolio use.
+ 
