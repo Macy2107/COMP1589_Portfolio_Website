@@ -1,6 +1,9 @@
 # Personal Portfolio Website
  
 A personal portfolio website built with plain HTML, CSS, and JavaScript, showcasing my interests in music, photography, calligraphy, and more — alongside a way for visitors to reach out or leave feedback.
+
+![image alt](<img width="3072" height="1920" alt="image" src="https://github.com/user-attachments/assets/469cd72f-3b8e-4d7d-aa2d-47ade6abb6ac" />
+)
  
 ## ⬇️ Downloading This Project
  
